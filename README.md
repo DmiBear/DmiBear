@@ -26,7 +26,7 @@
 
 **Markdown → MkDocs → Git → GitHub Actions → GitHub Pages**
 
-[Открыть документацию](https://dmibear.github.io/gisogd-user-guide/) · [Открыть исходники](https://github.com/DmiBear/gisogd-user-guide)
+[Открыть документацию](https://gisogd-user-guide.polakov1245.workers.dev/) · [Открыть исходники](https://github.com/DmiBear/gisogd-user-guide)
 
 ## Инструменты и стандарты
 
